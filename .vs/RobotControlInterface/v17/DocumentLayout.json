@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\RobotControlInterface\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D09D1E3E-3B41-81A0-F4B0-083EAB9543B7}|Assembly-CSharp.csproj|c:\\users\\usuario\\downloads\\robotcontrolinterface\\assets\\scripts\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09D1E3E-3B41-81A0-F4B0-083EAB9543B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D09D1E3E-3B41-81A0-F4B0-083EAB9543B7}|Assembly-CSharp.csproj|c:\\users\\usuario\\downloads\\robotcontrolinterface\\assets\\scripts\\robotdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D09D1E3E-3B41-81A0-F4B0-083EAB9543B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\robotdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HUDController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\RobotControlInterface\\Assets\\Scripts\\HUDController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUDController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\RobotControlInterface\\Assets\\Scripts\\HUDController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUDController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:40:58.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RobotDataManager.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\RobotControlInterface\\Assets\\Scripts\\RobotDataManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RobotDataManager.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Downloads\\RobotControlInterface\\Assets\\Scripts\\RobotDataManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\RobotDataManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T05:02:26.988Z",
               "EditorCaption": ""

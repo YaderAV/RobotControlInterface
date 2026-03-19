@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class RobotDataController:MonoBehaviour
+public class RobotDataManager:MonoBehaviour
 {
     [Header("Car Data")]
     public float speed = 0f;           // km/h
