@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\Downloads\\RobotControlInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09D1E3E-3B41-81A0-F4B0-083EAB9543B7}|Assembly-CSharp.csproj|c:\\users\\usuario\\downloads\\robotcontrolinterface\\assets\\scripts\\robotdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09D1E3E-3B41-81A0-F4B0-083EAB9543B7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\robotdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RobotDataManager.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Downloads\\RobotControlInterface\\Assets\\Scripts\\RobotDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RobotDataManager.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Downloads\\RobotControlInterface\\Assets\\Scripts\\RobotDataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RobotDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:02:26.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
