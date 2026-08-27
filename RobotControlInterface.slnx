@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="RobotControl.Core.csproj" />
+  <Project Path="RobotControl.Game.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="RobotControl.Editor.csproj" />
+</Solution>

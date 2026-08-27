@@ -1,8 +1,50 @@
+# ---- Unity: carpetas generadas ----
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
 [Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity genera estas al importar; nunca deben versionarse
+/[Aa]ssets/[Aa]ssetStoreTools*
+/[Aa]ssets/[Pp]lugins/[Ee]ditor/JetBrains*
+
+# ---- Proyectos de IDE autogenerados ----
+# Unity los regenera solos: versionarlos solo produce conflictos
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+.vs/
+.idea/
+.vscode/
+!.vscode/settings.json
+
+# ---- Builds ----
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# ---- Crash reports ----
+sysinfo.txt
+crashlytics-build.properties
+
+# ---- Sistema operativo ----
+.DS_Store
+Thumbs.db

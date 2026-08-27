@@ -1,0 +1,43 @@
+# Normalizacion de fin de linea
+* text=auto
+
+# ---- Archivos de Unity en texto plano (serializacion ForceText) ----
+# El driver "unityyamlmerge" permite fusionar escenas y prefabs en vez de
+# tener que descartar el trabajo de alguien en cada conflicto.
+*.cs      text diff=csharp
+*.unity   text merge=unityyamlmerge eol=lf
+*.prefab  text merge=unityyamlmerge eol=lf
+*.asset   text merge=unityyamlmerge eol=lf
+*.mat     text merge=unityyamlmerge eol=lf
+*.anim    text merge=unityyamlmerge eol=lf
+*.controller text merge=unityyamlmerge eol=lf
+*.meta    text merge=unityyamlmerge eol=lf
+*.physicMaterial text merge=unityyamlmerge eol=lf
+
+# ---- Binarios via Git LFS ----
+# Modelos 3D del robot y del brazo
+*.fbx  filter=lfs diff=lfs merge=lfs -text
+*.obj  filter=lfs diff=lfs merge=lfs -text
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.dae  filter=lfs diff=lfs merge=lfs -text
+*.glb  filter=lfs diff=lfs merge=lfs -text
+*.gltf filter=lfs diff=lfs merge=lfs -text
+
+# Texturas
+*.png  filter=lfs diff=lfs merge=lfs -text
+*.jpg  filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+*.tga  filter=lfs diff=lfs merge=lfs -text
+*.psd  filter=lfs diff=lfs merge=lfs -text
+*.exr  filter=lfs diff=lfs merge=lfs -text
+*.hdr  filter=lfs diff=lfs merge=lfs -text
+
+# Audio y video
+*.wav  filter=lfs diff=lfs merge=lfs -text
+*.mp3  filter=lfs diff=lfs merge=lfs -text
+*.ogg  filter=lfs diff=lfs merge=lfs -text
+*.mp4  filter=lfs diff=lfs merge=lfs -text
+
+# Fuentes
+*.ttf  filter=lfs diff=lfs merge=lfs -text
+*.otf  filter=lfs diff=lfs merge=lfs -text
